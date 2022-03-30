@@ -1,0 +1,3 @@
+- 👋 Hi, ’m @bezlima
+- 👀 I’m interested in Front End
+- 🌱 I’m currently learning JS
