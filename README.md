@@ -1,4 +1,4 @@
-- 👋 Olá, sou Lucas Bezerra de Lima.
+- 👋 <b> Olá, sou Lucas Bezerra de Lima. </b>
 - 👀 Atualmente estou estudando front-end, buscando mudar de profissão.
 - 🎓 Sou psicólogo formado e estou no processo de especialização em psicopedagogia.
 - 💻 Experiência com Photoshop (sempre me atualizando nas novas versões).
