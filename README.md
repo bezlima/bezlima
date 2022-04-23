@@ -5,4 +5,4 @@
 - ✔️ Estou estudando JavaScript e já possuo segurança em HTML5 e CSS3.
 - 🌱 Meus próximos passos são: NODE.JS, REACT, NEXT.JS, UI/UX ...
 - 🟢 No futuro pretendo unir minha formação em psicologia com os conhecimentos obtidos na formação front-end, me aprofundando na área de UI/UX;
-- ➕ Tembém estou no <a href="https://www.linkedin.com/in/lucas-bezerra-de-lima-64310b237/">LinkedIn</a> <a href="https://www.behance.net/lucaslima274">Behance</a>
+- ➕ Tembém estou no <a href="https://www.linkedin.com/in/lucas-bezerra-de-lima-64310b237/">LinkedIn</a> e no <a href="https://www.behance.net/lucaslima274">Behance</a>
