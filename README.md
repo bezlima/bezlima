@@ -6,4 +6,9 @@
 - 🌱 Meus próximos passos são: NODE.JS, SASS, BOOTSTRAP, UI/UX ...
 - 🟢 No futuro pretendo unir minha formação em psicologia com os conhecimentos obtidos na formação front-end, me aprofundando na área de UI/UX;
 - ➕ Tembém estou no <a href="https://www.linkedin.com/in/lucas-bezerra-de-lima-64310b237/">LinkedIn</a> e no <a href="https://www.behance.net/lucaslima274">Behance</a>
+
+
+
+
+
 <a href="https://app.daily.dev/bezlima"><img src="https://api.daily.dev/devcards/32f059325570443fb8fe66fb5e6661e4.png?r=4fc" width="400" alt="Lucas Lima's Dev Card"/></a>
