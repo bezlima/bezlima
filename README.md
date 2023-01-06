@@ -1,7 +1,7 @@
 - 👋 Olá,<b> sou Lucas Bezerra de Lima. </b>
 - 👀 Estrou prestando serviço a duas empresas no momento: Turier Tech e B2K Tech.
 - 🎓 Sou psicólogo formado e estou no processo de especialização em psicopedagogia.
-- 💻 Experiência com Photoshop e Illustrator (sempre me atualizando nas novas versões).
+- 💻 Experiência com Figma, Photoshop e Illustrator (sempre me atualizando nas novas versões).
 - ✔️ Estou estudando e me aprofundando em TypeScript, React JS e Next JS.
 - 💻 Tecnologias: Sass, Css, HTML5, Tailwind, JavaScript, ReactJS, NextJs e TypeScript.
 - 🌱 Meus próximos passos são: NODE.JS, BOOTSTRAP, UI/UX ...
