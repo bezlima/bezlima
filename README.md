@@ -7,7 +7,7 @@ você pode entrar em contato por
 *email:* lucas.lima.psico@hotmail.com
 
 se conectar comigo através do:
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bezerra-de-lima-64310b237/)
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bezlima/)
 
 você pode ver meu website em:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-sigma-five-79.vercel.app/)
