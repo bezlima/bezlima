@@ -10,7 +10,7 @@ se conectar comigo através do:
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bezlima/)
 
 você pode ver meu website em:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-sigma-five-79.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bezlima-portfolio.vercel.app/)
 
 e baixar em currículo em:
 [![portfolio](https://img.shields.io/badge/curriculum_vitae-000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1BZyRNnK0dQnxHLE4E_SK0fwMM9hHc3VC/view?usp=drive_link)
