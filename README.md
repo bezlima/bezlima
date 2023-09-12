@@ -1,6 +1,12 @@
 # Lucas Bezerra de Lima
 
-Sou desenvolvedor front-end, migrei para a programação a dois anos. Como pessoa, sou comunicativo, busco sempre aprimorar e aprender novas tecnologias, trabalho bem em equipe, cumpro os prazos desejados, busco sempre a melhor estrutura do projeto e insisto na solução de problemas que surgem. Atualmente estou buscando uma melhor estabilidade nessa área para conseguir me aprofundar ainda mais em novas tecnologias e abranger meus conhecimentos.
+Com dois anos de experiência como desenvolvedor TypeScript, minha jornada tem sido focada em tecnologias voltadas para o desenvolvimento web. Durante minha carreira, atuei tanto como desenvolvedor frontend quanto backend, o que me proporcionou uma visão mais abrangente do ecossistema.
+
+No desenvolvimento frontend, possuo sólida experiência em tecnologias como Next.js, React.js, Redux, React-hook-form, SASS, Tailwind, e Styled-components, permitindo-me criar experiências de usuário envolventes e responsivas.
+
+No âmbito backend, domino tecnologias essenciais como Node.js, Express, MongoDB, Mongoose e Zod, o que me capacita a construir robustas soluções server-side e APIs eficientes.
+
+Além disso, como UX Designer, utilizo minhas habilidades criativas em ferramentas como Figma, Adobe Photoshop e Adobe Illustrator para criar interfaces intuitivas e atraentes.
 
 #### Contato: 
 você pode entrar em contato por
@@ -15,29 +21,6 @@ você pode ver meu website em:
 e baixar em currículo em:
 [![portfolio](https://img.shields.io/badge/curriculum_vitae-000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1BZyRNnK0dQnxHLE4E_SK0fwMM9hHc3VC/view?usp=drive_link)
 
-### Habilidades
-
-#### Framework:
-NextJs.
-#### Bibliotecas:
-Utilizo as bibliotecas ReactJS, Redux, Reack-hook-form, React-leaflet, Victory-chart entre outras ligadas ao ecossistema react.
-#### Estilização:
-Possuo experiência de estilização com CSS, SASS, Tailwind e Styled-component, tenho facilidade para aprender sistemas de estilização, inclusive com sistemas ui integrado como MuiMaterials.
-#### Linguagem:
-Experiência na utilização das linguagens Javascript e TypeScript.
-#### Marcação:
-Habilidades na utilização do HTML.
-#### Manipulação de imagens:
-Possuo conhecimento em instrumentos de manipulação de imagens como Figma, Adobe Photoshop, Adobe Illustrator, entre outros que possuem estruturas similares.
-
-### Aprendendo
-
-- NodeJs + Express
-- React Native
-- Jest + React Testing Library
-- MongoDB + Mongoose
-- SQL
-
 ### Aprendizados
 
-Já atuei com projeto de código legado, atualmente sou desenvolvedor freelancer onde faço a aplicação web por completa de um software da área do agronegócio, já fiz integração de sistema com bibliotecas de mapa, gráficos e PDF, já construí elementos reutilizáveis e totalmente customizados para ui de projetos pessoais.
+Já atuei com projeto de código legado, atualmente sou desenvolvedor web onde faço a aplicação web por completa de um software da área do agronegócio, já fiz integração de sistema com bibliotecas de mapa, gráficos e PDF, já construí elementos reutilizáveis e totalmente customizados para ui de projetos.
