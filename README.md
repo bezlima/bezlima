@@ -19,7 +19,7 @@ você pode ver meu website em:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bezlima-portfolio.vercel.app/)
 
 e baixar em currículo em:
-[![portfolio](https://img.shields.io/badge/curriculum_vitae-000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1BZyRNnK0dQnxHLE4E_SK0fwMM9hHc3VC/view?usp=drive_link)
+[![portfolio](https://img.shields.io/badge/curriculum_vitae-000?style=for-the-badge&logo=readdotcv&logoColor=white)]([https://drive.google.com/file/d/1BZyRNnK0dQnxHLE4E_SK0fwMM9hHc3VC/view?usp=drive_link](https://bezlima-portfolio.vercel.app/cv/CV-LucasLima.pdf))
 
 ### Aprendizados
 
