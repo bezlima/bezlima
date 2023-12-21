@@ -10,7 +10,7 @@ Além disso, como UX Designer, utilizo minhas habilidades criativas em ferrament
 
 #### Contato: 
 você pode entrar em contato por
-*email:* lucas.lima.psico@hotmail.com
+*email:* bezlima.lucas@gmail.com
 
 se conectar comigo através do:
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bezlima/)
