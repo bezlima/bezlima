@@ -1,12 +1,15 @@
 # Lucas Bezerra de Lima
 
-Com dois anos de experiência como desenvolvedor TypeScript, minha jornada tem sido focada em tecnologias voltadas para o desenvolvimento web. Durante minha carreira, atuei tanto como desenvolvedor frontend quanto backend, o que me proporcionou uma visão mais abrangente do ecossistema.
+Sou desenvolvedor web com experiência em desenvolvimento front-end e back-end, o que me proporciona uma visão abrangente do ecossistema de desenvolvimento e facilita uma colaboração mais eficiente em equipes multidisciplinares.
 
-No desenvolvimento frontend, possuo sólida experiência em tecnologias como Next.js, React.js, Redux, React-hook-form, SASS, Tailwind, e Styled-components, permitindo-me criar experiências de usuário envolventes e responsivas.
+Tenho sólida experiência nas linguagens TypeScript, Python e JavaScript.
 
-No âmbito backend, domino tecnologias essenciais como Node.js, Express, MongoDB, Mongoose e Zod, o que me capacita a construir robustas soluções server-side e APIs eficientes.
+No front-end, trabalho com tecnologias como Next.js, React.js, Redux, React-hook-form, SASS, Tailwind e Styled-components, criando interfaces de usuário responsivas e envolventes.
 
-Além disso, como UX Designer, utilizo minhas habilidades criativas em ferramentas como Figma, Adobe Photoshop e Adobe Illustrator para criar interfaces intuitivas e atraentes.
+No back-end, sou experiente em FastAPI, Flask, Node.js, Express, PostgreSQL, MongoDB, Mongoose, Zod e JWT. Utilizo essas ferramentas para desenvolver APIs seguras e eficientes, além de soluções escaláveis e robustas.
+
+Além disso, tenho familiaridade com práticas e ferramentas de desenvolvimento ágil, como Git, GitHub, GitLab, Figma e Scrum, o que me ajuda a manter fluxos de trabalho organizados e eficientes.
+
 
 #### Contato: 
 você pode entrar em contato por
@@ -20,7 +23,3 @@ você pode ver meu website em:
 
 e baixar em currículo em:
 [![portfolio](https://img.shields.io/badge/curriculum_vitae-000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://bezlima-portfolio.vercel.app/cv/CV-LucasLima.pdf)
-
-### Aprendizados
-
-Já atuei com projeto de código legado, atualmente sou desenvolvedor web onde faço a aplicação web por completa de um software da área do agronegócio, já fiz integração de sistema com bibliotecas de mapa, gráficos e PDF, já construí elementos reutilizáveis e totalmente customizados para ui de projetos.
